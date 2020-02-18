@@ -1,7 +1,7 @@
 # C
-<h1>C programs</h1>
+<h1>C Programs</h1>
 
-<h2>I wanted to go back and mess with some basic C concepts. For science.</h2>
+<h2>I wanted to go back and refresh with some basic C concepts, like pointers. For science.</h2>
 <br>
 MIT License
 
